@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlbumChangerByron", "AlbumChangerByron\AlbumChangerByron.csproj", "{F9E4EBE4-98F9-4879-92AF-4C0E53FA8CB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9E4EBE4-98F9-4879-92AF-4C0E53FA8CB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9E4EBE4-98F9-4879-92AF-4C0E53FA8CB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9E4EBE4-98F9-4879-92AF-4C0E53FA8CB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9E4EBE4-98F9-4879-92AF-4C0E53FA8CB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FC9438B-6C62-47B1-9A67-26E6F37B4C9D}
+	EndGlobalSection
+EndGlobal
