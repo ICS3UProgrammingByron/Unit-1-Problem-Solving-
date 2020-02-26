@@ -26,9 +26,24 @@ namespace PerAreaByron
         private void BtnCalculate_Click(object sender, EventArgs e)
         {
             //declare local variables
-            double length, width;
+            double length,area,  width; 
 
-            //convert to stringfrom each text box
+
+            //convert to string from each text box to a double
+            length = double.Parse(txtLength.Text);
+
+            //convert to string from each text box to a double
+            width = double.Parse(txtWidth.Text);
+
+            //calculate the area of a rectangle
+            area = length * Width;
+
+            //insert the area into their respective labels 
+
+
+
+
+
         }
     }
 }

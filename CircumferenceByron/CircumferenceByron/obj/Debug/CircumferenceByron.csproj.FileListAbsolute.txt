@@ -1,0 +1,10 @@
+N:\Classes\Sem2-Winter2020\ICS3U Programming\EDByron (s466932)\Unit 1 (Problem Solving)\CircumferenceByron\CircumferenceByron\bin\Debug\CircumferenceByron.exe.config
+N:\Classes\Sem2-Winter2020\ICS3U Programming\EDByron (s466932)\Unit 1 (Problem Solving)\CircumferenceByron\CircumferenceByron\bin\Debug\CircumferenceByron.exe
+N:\Classes\Sem2-Winter2020\ICS3U Programming\EDByron (s466932)\Unit 1 (Problem Solving)\CircumferenceByron\CircumferenceByron\bin\Debug\CircumferenceByron.pdb
+N:\Classes\Sem2-Winter2020\ICS3U Programming\EDByron (s466932)\Unit 1 (Problem Solving)\CircumferenceByron\CircumferenceByron\obj\Debug\CircumferenceByron.csprojAssemblyReference.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\EDByron (s466932)\Unit 1 (Problem Solving)\CircumferenceByron\CircumferenceByron\obj\Debug\CircumferenceByron.frmCircumference.resources
+N:\Classes\Sem2-Winter2020\ICS3U Programming\EDByron (s466932)\Unit 1 (Problem Solving)\CircumferenceByron\CircumferenceByron\obj\Debug\CircumferenceByron.Properties.Resources.resources
+N:\Classes\Sem2-Winter2020\ICS3U Programming\EDByron (s466932)\Unit 1 (Problem Solving)\CircumferenceByron\CircumferenceByron\obj\Debug\CircumferenceByron.csproj.GenerateResource.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\EDByron (s466932)\Unit 1 (Problem Solving)\CircumferenceByron\CircumferenceByron\obj\Debug\CircumferenceByron.csproj.CoreCompileInputs.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\EDByron (s466932)\Unit 1 (Problem Solving)\CircumferenceByron\CircumferenceByron\obj\Debug\CircumferenceByron.exe
+N:\Classes\Sem2-Winter2020\ICS3U Programming\EDByron (s466932)\Unit 1 (Problem Solving)\CircumferenceByron\CircumferenceByron\obj\Debug\CircumferenceByron.pdb

@@ -32,7 +32,7 @@
             this.lblWidth = new System.Windows.Forms.Label();
             this.txtLength = new System.Windows.Forms.TextBox();
             this.txtWidth = new System.Windows.Forms.TextBox();
-            this.btnCalculate = new System.Windows.Forms.Button();
+            this.btnCalculateArea = new System.Windows.Forms.Button();
             this.lblPer = new System.Windows.Forms.Label();
             this.lblArea = new System.Windows.Forms.Label();
             this.lblPerAnswer = new System.Windows.Forms.Label();
@@ -40,6 +40,7 @@
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.fileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.exitToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.btnCalculatePer = new System.Windows.Forms.Button();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -75,15 +76,15 @@
             this.txtWidth.Size = new System.Drawing.Size(100, 20);
             this.txtWidth.TabIndex = 3;
             // 
-            // btnCalculate
+            // btnCalculateArea
             // 
-            this.btnCalculate.Location = new System.Drawing.Point(598, 141);
-            this.btnCalculate.Name = "btnCalculate";
-            this.btnCalculate.Size = new System.Drawing.Size(75, 23);
-            this.btnCalculate.TabIndex = 4;
-            this.btnCalculate.Text = "Calculate";
-            this.btnCalculate.UseVisualStyleBackColor = true;
-            this.btnCalculate.Click += new System.EventHandler(this.BtnCalculate_Click);
+            this.btnCalculateArea.Location = new System.Drawing.Point(622, 65);
+            this.btnCalculateArea.Name = "btnCalculateArea";
+            this.btnCalculateArea.Size = new System.Drawing.Size(97, 23);
+            this.btnCalculateArea.TabIndex = 4;
+            this.btnCalculateArea.Text = "CalculateArea";
+            this.btnCalculateArea.UseVisualStyleBackColor = true;
+            this.btnCalculateArea.Click += new System.EventHandler(this.BtnCalculate_Click);
             // 
             // lblPer
             // 
@@ -142,20 +143,30 @@
             // exitToolStripMenuItem
             // 
             this.exitToolStripMenuItem.Name = "exitToolStripMenuItem";
-            this.exitToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.exitToolStripMenuItem.Size = new System.Drawing.Size(93, 22);
             this.exitToolStripMenuItem.Text = "Exit";
             this.exitToolStripMenuItem.Click += new System.EventHandler(this.ExitToolStripMenuItem_Click);
+            // 
+            // btnCalculatePer
+            // 
+            this.btnCalculatePer.Location = new System.Drawing.Point(622, 217);
+            this.btnCalculatePer.Name = "btnCalculatePer";
+            this.btnCalculatePer.Size = new System.Drawing.Size(97, 21);
+            this.btnCalculatePer.TabIndex = 10;
+            this.btnCalculatePer.Text = "CalculatePer";
+            this.btnCalculatePer.UseVisualStyleBackColor = true;
             // 
             // frmPerArea
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnCalculatePer);
             this.Controls.Add(this.lblAreaAnswer);
             this.Controls.Add(this.lblPerAnswer);
             this.Controls.Add(this.lblArea);
             this.Controls.Add(this.lblPer);
-            this.Controls.Add(this.btnCalculate);
+            this.Controls.Add(this.btnCalculateArea);
             this.Controls.Add(this.txtWidth);
             this.Controls.Add(this.txtLength);
             this.Controls.Add(this.lblWidth);
@@ -177,7 +188,7 @@
         private System.Windows.Forms.Label lblWidth;
         private System.Windows.Forms.TextBox txtLength;
         private System.Windows.Forms.TextBox txtWidth;
-        private System.Windows.Forms.Button btnCalculate;
+        private System.Windows.Forms.Button btnCalculateArea;
         private System.Windows.Forms.Label lblPer;
         private System.Windows.Forms.Label lblArea;
         private System.Windows.Forms.Label lblPerAnswer;
@@ -185,6 +196,7 @@
         private System.Windows.Forms.MenuStrip menuStrip1;
         private System.Windows.Forms.ToolStripMenuItem fileToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem exitToolStripMenuItem;
+        private System.Windows.Forms.Button btnCalculatePer;
     }
 }
 
