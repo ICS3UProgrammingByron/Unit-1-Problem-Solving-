@@ -1,0 +1,10 @@
+N:\Classes\Sem2-Winter2020\ICS3U Programming\EDByron (s466932)\Unit 1 (Problem Solving)\PerAreaByron\PerAreaByron\bin\Debug\PerAreaByron.exe.config
+N:\Classes\Sem2-Winter2020\ICS3U Programming\EDByron (s466932)\Unit 1 (Problem Solving)\PerAreaByron\PerAreaByron\bin\Debug\PerAreaByron.exe
+N:\Classes\Sem2-Winter2020\ICS3U Programming\EDByron (s466932)\Unit 1 (Problem Solving)\PerAreaByron\PerAreaByron\bin\Debug\PerAreaByron.pdb
+N:\Classes\Sem2-Winter2020\ICS3U Programming\EDByron (s466932)\Unit 1 (Problem Solving)\PerAreaByron\PerAreaByron\obj\Debug\PerAreaByron.csprojAssemblyReference.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\EDByron (s466932)\Unit 1 (Problem Solving)\PerAreaByron\PerAreaByron\obj\Debug\PerAreaByron.frmPerArea.resources
+N:\Classes\Sem2-Winter2020\ICS3U Programming\EDByron (s466932)\Unit 1 (Problem Solving)\PerAreaByron\PerAreaByron\obj\Debug\PerAreaByron.Properties.Resources.resources
+N:\Classes\Sem2-Winter2020\ICS3U Programming\EDByron (s466932)\Unit 1 (Problem Solving)\PerAreaByron\PerAreaByron\obj\Debug\PerAreaByron.csproj.GenerateResource.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\EDByron (s466932)\Unit 1 (Problem Solving)\PerAreaByron\PerAreaByron\obj\Debug\PerAreaByron.csproj.CoreCompileInputs.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\EDByron (s466932)\Unit 1 (Problem Solving)\PerAreaByron\PerAreaByron\obj\Debug\PerAreaByron.exe
+N:\Classes\Sem2-Winter2020\ICS3U Programming\EDByron (s466932)\Unit 1 (Problem Solving)\PerAreaByron\PerAreaByron\obj\Debug\PerAreaByron.pdb

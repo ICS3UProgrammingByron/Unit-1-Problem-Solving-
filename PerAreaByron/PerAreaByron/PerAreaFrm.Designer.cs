@@ -155,6 +155,7 @@
             this.btnCalculatePer.TabIndex = 10;
             this.btnCalculatePer.Text = "CalculatePer";
             this.btnCalculatePer.UseVisualStyleBackColor = true;
+            this.btnCalculatePer.Click += new System.EventHandler(this.BtnCalculatePer_Click);
             // 
             // frmPerArea
             // 
@@ -175,6 +176,7 @@
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "frmPerArea";
             this.Text = "Perimeter & Area of A Rectangle By Byron";
+            this.Load += new System.EventHandler(this.FrmPerArea_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
